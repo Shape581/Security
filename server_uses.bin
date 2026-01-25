@@ -1,8 +1,9 @@
 {
-  " ": [
+  "serverUses": [
     {
-      " ": "90.125.86.95",
-      " ": "100000.Rx2iEWgCI7NORt401olZVg==.uNyueVXs2kwQYKS3JzTSjaqmhDqxYUCRyKq5KA7zwR8="
+      "serverIp": "90.125.86.95",
+      "hashedPluginLicenseId": "100000.CeGhpUCqxm3kZutxE7oEIA==.hnVLNkjjAds2vvAio71VtSCgTqiovnEuiwpu/2MqKOc=",
+      "lastUse": "2026-01-25T20:52:38.4382925+01:00"
     }
   ]
 }
