@@ -1,4 +1,9 @@
 {
-  "licenses": []
-
+  "licenses": [
+    {
+      "assemblyName": "Point_Vetement",
+      "owner": "Sam",
+      "key": "100000.cT4ASjm5TYmdQHqTAkTuCA==.JTgwrnnYYuqQZQuqOa9A5eDdbIwoGUOehDZryTMab5U="
+    }
+  ]
 }
