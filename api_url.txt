@@ -1,1 +1,1 @@
-https://localhost:7193
+https://http://82.165.198.200/:7193
